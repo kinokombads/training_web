@@ -1,3 +1,10 @@
 body{
-    background-color: #EAF6F6;
+    background-color: #eaf6f6;
+    
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    height: 2px;
 }
