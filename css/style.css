@@ -13,3 +13,20 @@ hr {
 td, th {
     padding: 5px;
 }
+
+h1, h3 {
+    color: #66afaf;
+}
+
+
+/*CLASS SELECTORS*/
+.prof-pix {
+    height: 500px;
+}
+
+
+/*ID SELECTORS*/
+#prof-pix {
+    border-radius: 50%;
+    height: 250px;
+}
